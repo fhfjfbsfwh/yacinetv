@@ -1,0 +1,2 @@
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
+http://order.servepics.com:8080/live/jFqbplMwLC/ODG2hhNOOy/196.ts
